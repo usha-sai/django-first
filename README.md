@@ -1,2 +1,2 @@
 # django-first
-My First Django project
+My First Django demo project
